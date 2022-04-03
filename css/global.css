@@ -1,0 +1,43 @@
+a{
+    text-decoration: none;
+    color: #fff;
+}
+ul{
+    list-style-type: none;
+}
+.mr-13{
+    margin-right: 13px;
+}
+.mr-25{
+    margin-right: 25px;
+}
+.mr-40{
+    margin-right: 40px;
+}
+.d-flex{
+    display: flex;
+}
+.t-center{
+    text-align: center;
+}
+.mb-30{
+    margin-bottom: 30px;
+}
+.breaks{
+    display: flex;
+    align-items: center;
+    margin-bottom: 50px;
+}
+.small-break{
+    border: 1px white solid;
+    width: 30px;
+}
+.break-content{
+    color: white;
+    font-size: 20px;
+    font-weight: 300;
+    margin:0 15px;
+}
+.white-title{
+    color: white;
+}

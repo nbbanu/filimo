@@ -1,0 +1,77 @@
+header{
+    width: 100%;
+}
+.home, .home2, .first-break, .about, .episodes-title, .more-title, .comments{
+    width: 90%;
+}
+.nav-bar a{
+    font-size: 15px;
+}
+/* .home2 .home2-buttons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+.home2 .home2-buttons button{
+    font-size: 13px;
+}
+.home2 .home2-buttons button img{
+    margin: 0 auto;
+}
+.about-information{
+    display: flex;
+    flex-direction: column;
+}
+.about-information .about-img{
+    margin-bottom: 15px;
+}
+.episodes-images .episode:nth-child(4){
+    display: none;
+}
+.episodes-images .episode:nth-child(5){
+    display: none;
+}
+.more-images:nth-child(4){
+    display: none;
+}
+.more-images:nth-child(5){
+    display: none;
+}
+.comments-information{
+    display: flex;
+    flex-direction: column;
+}
+.comments-information .text-area{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.comments-information .text-area button{
+    width: 100%;
+    margin-bottom: 40px;
+}
+.comments-information .comment-rating{
+    width: 98%;
+}
+.comments-information .c-point{
+    text-align: center;
+}
+.footer-1{
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+}
+.footer-right{
+    display: flex;
+    align-self: flex-start;
+}
+.footer-right .tablet{
+    margin-right: 50px;
+}
+.footer-right .right-3 .contact{
+    margin-right: 40px;
+}
+.footer-2{
+    width: 90%;
+}
+
